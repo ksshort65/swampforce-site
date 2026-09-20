@@ -1,2 +1,1 @@
-# swampforce-site
-Swamp Force static site for Namecheap public_html
+Swamp Force journal. Namecheap: Code → Download ZIP → extract into public_html so index.html sits in that folder.
